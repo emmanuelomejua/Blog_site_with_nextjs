@@ -1,0 +1,15 @@
+.single{
+    padding: 2px 16px;
+    background: #fff;
+    display: block;
+    margin: 20px 10px;
+    border-left: #fff solid 1px;
+}
+
+.single:hover{
+    border-left: 8px solid #4979ff;
+    cursor: pointer;
+}
+.nil{
+    text-align: center;
+}
